@@ -13,7 +13,7 @@ Learn a structured framework for solving problems with advanced analytics. Learn
 ### Part 2: [Data Wrangling]()
 Data Wrangling is at the core of all data activity. In this course you learn how to work with different data types,dirty data, and outliers. You will also learn how to reformat data and join data from different sources together.
 
-- Project: [Create an Analytical Dataset]()
+- Project: [Create an Analytical Dataset](https://github.com/fmahlmeister/Predictive-Analytics-for-Business-Nanodegree/blob/master/2.Data-Wrangling/2.Create-an-Analytical-Dataset.ipynb)
 
 ### Part 3: [Classification Models]()
 Classification models are a powerful tool for business analyst. In this course, you learn more about binary and non-binary classification models and how to use them to drive business insights.
