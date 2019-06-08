@@ -23,7 +23,7 @@ Classification models are a powerful tool for business analyst. In this course, 
 ### Part 4: A/B Testing
 Helping businesses make the best decisions is an essential part of Business Analysis. Planning and executing the analysis of an AB test allow you to provide confident recommendations. In this course, you learn how to create, execute, and analyze an AB test.
 
-- Project: [A/B Test a New Menu Launch]()
+- Project: [A/B Test a New Menu Launch](https://github.com/fmahlmeister/Predictive-Analytics-for-Business-Nanodegree/blob/master/4.AB-Testing/4.AB-Test-a-New-Menu-Launch.ipynb)
 
 ### Part 5: Time Series Forecasting
 Time Series Forecasting is a powerful analytical tool. In this course, you learn how ETS and ARIMA models are used to forecast data and how they deal with trends and seasonality. These skills will be evaluated in the final project.
