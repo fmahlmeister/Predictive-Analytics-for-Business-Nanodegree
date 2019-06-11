@@ -31,6 +31,6 @@ Time Series Forecasting is a powerful analytical tool. In this course, you learn
 ### Part 6: Segmentation and Clustering
 Segmentation and Clustering are effective methods for finding patterns in your data. In this course, you learn how to prepare data to be clustered appropriately and interpret results.
 
-- Project: [Combine Predictive Techniques]()
+- Project: [Combine Predictive Techniques](https://github.com/fmahlmeister/Predictive-Analytics-for-Business-Nanodegree/blob/master/6.Segmentation-and-Clustering/5.Combine-Predictive-Techniques.ipynb)
 
 ![Udacity Predictive Analytics for Business Nanodegree](https://drive.google.com/uc?export=view&id=131KpJqf0SQFzrH_KfcnpOReqSQhk9HVS)
